@@ -1,3 +1,3 @@
 # i3wm-config
 
-ARCH config i3, i3status, touchpad.
+ARCH config i3, i3status, touchpad, keyboard
